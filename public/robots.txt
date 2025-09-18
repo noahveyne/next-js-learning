@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# İzmir Teknik Servis Sitemap
+Sitemap: https://www.izmir-teknikservis.com/sitemap.xml
+
+# Crawl-delay for better server performance
+Crawl-delay: 1
+
+# Disallow admin areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /private/

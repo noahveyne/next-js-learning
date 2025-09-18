@@ -1,0 +1,845 @@
+Each child in a list should have a unique "key" prop.
+
+Check the render method of `Header`. See https://react.dev/link/warning-keys for more information.
+Each child in a list should have a unique "key" prop.
+
+Check the render method of `Header`. See https://react.dev/link/warning-keys for more information.
+ ⚠ The "images.domains" configuration is deprecated. Please use "images.remotePatterns" configuration instead.
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1567016546367-c4328b4d4a8e?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1604335399105-a0d4a1a278e3?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1581579188871-45ea61f2a0c8?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1581579188871-45ea61f2a0c8?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1604335399105-a0d4a1a278e3?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1567016546367-c4328b4d4a8e?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1581579188871-45ea61f2a0c8?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1604335399105-a0d4a1a278e3?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1567016546367-c4328b4d4a8e?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1604335399105-a0d4a1a278e3?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1567016546367-c4328b4d4a8e?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1581579188871-45ea61f2a0c8?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1581579188871-45ea61f2a0c8?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1567016546367-c4328b4d4a8e?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1604335399105-a0d4a1a278e3?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1581579188871-45ea61f2a0c8?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1567016546367-c4328b4d4a8e?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1604335399105-a0d4a1a278e3?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1581579188871-45ea61f2a0c8?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1567016546367-c4328b4d4a8e?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1604335399105-a0d4a1a278e3?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1567016546367-c4328b4d4a8e?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1581579188871-45ea61f2a0c8?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1604335399105-a0d4a1a278e3?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1581579188871-45ea61f2a0c8?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1604335399105-a0d4a1a278e3?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1567016546367-c4328b4d4a8e?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1581579188871-45ea61f2a0c8?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1567016546367-c4328b4d4a8e?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1604335399105-a0d4a1a278e3?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1581579188871-45ea61f2a0c8?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1567016546367-c4328b4d4a8e?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1604335399105-a0d4a1a278e3?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1567016546367-c4328b4d4a8e?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1604335399105-a0d4a1a278e3?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1581579188871-45ea61f2a0c8?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1567016546367-c4328b4d4a8e?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1604335399105-a0d4a1a278e3?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1581579188871-45ea61f2a0c8?q=80&w=1200&auto=format&fit=crop 404
+ ⨯ [Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.] {
+  digest: '2057066874'
+}
+ ⨯ [Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.] {
+  digest: '2057066874'
+}
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"../components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"../components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"../components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"../components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"../components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"../components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"../components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"../components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"../components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"../components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"../components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"../components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"../components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"../components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"../components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"../components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"../components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"../components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"../components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"../components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"../components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"../components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"../components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"../components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"../components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"../components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"../components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"../components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ [Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.] {
+  digest: '2057066874'
+}
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/Services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/Services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/Services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '@/components/services'
+[0m [90m 1 |[39m [36mimport[39m [33mHeroSlider[39m [36mfrom[39m [32m"@/components/HeroSlider"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m [33mServices[39m [36mfrom[39m [32m"@/components/services"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 5 |[39m   [36mconst[39m localBusinessJsonLd [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+Error: Route "/izmir/[ilce]/[hizmet]" used `params.ilce`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at Page (src\app\izmir\[ilce]\[hizmet]\page.tsx:42:23)
+  40 |
+  41 | export default function Page({ params }: { params: { ilce: string; hizmet: string } }) {
+> 42 |   const ilce = params.ilce.toLowerCase();
+     |                       ^
+  43 |   const hizmet = params.hizmet.toLowerCase();
+  44 |
+  45 |   if (!IZMIR_DISTRICTS.includes(ilce as any) || !SERVICES.some((x) => x.slug === hizmet)) {
+Error: Route "/izmir/[ilce]/[hizmet]" used `params.hizmet`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at Page (src\app\izmir\[ilce]\[hizmet]\page.tsx:43:25)
+  41 | export default function Page({ params }: { params: { ilce: string; hizmet: string } }) {
+  42 |   const ilce = params.ilce.toLowerCase();
+> 43 |   const hizmet = params.hizmet.toLowerCase();
+     |                         ^
+  44 |
+  45 |   if (!IZMIR_DISTRICTS.includes(ilce as any) || !SERVICES.some((x) => x.slug === hizmet)) {
+  46 |     notFound();
+Error: Route "/izmir/[ilce]/[hizmet]" used `params.ilce`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at Module.generateMetadata (src\app\izmir\[ilce]\[hizmet]\page.tsx:14:23)
+  12 |
+  13 | export async function generateMetadata({ params }: { params: { ilce: string; hizmet: string } }) {
+> 14 |   const ilce = params.ilce.toLowerCase();
+     |                       ^
+  15 |   const hizmet = params.hizmet.toLowerCase();
+  16 |
+  17 |   if (!IZMIR_DISTRICTS.includes(ilce as any) || !SERVICES.some((x) => x.slug === hizmet)) {
+Error: Route "/izmir/[ilce]/[hizmet]" used `params.hizmet`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at Module.generateMetadata (src\app\izmir\[ilce]\[hizmet]\page.tsx:15:25)
+  13 | export async function generateMetadata({ params }: { params: { ilce: string; hizmet: string } }) {
+  14 |   const ilce = params.ilce.toLowerCase();
+> 15 |   const hizmet = params.hizmet.toLowerCase();
+     |                         ^
+  16 |
+  17 |   if (!IZMIR_DISTRICTS.includes(ilce as any) || !SERVICES.some((x) => x.slug === hizmet)) {
+  18 |     return {};
+Error: Route "/izmir/[ilce]/[hizmet]" used `params.ilce`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at Page (src\app\izmir\[ilce]\[hizmet]\page.tsx:42:23)
+  40 |
+  41 | export default function Page({ params }: { params: { ilce: string; hizmet: string } }) {
+> 42 |   const ilce = params.ilce.toLowerCase();
+     |                       ^
+  43 |   const hizmet = params.hizmet.toLowerCase();
+  44 |
+  45 |   if (!IZMIR_DISTRICTS.includes(ilce as any) || !SERVICES.some((x) => x.slug === hizmet)) {
+Error: Route "/izmir/[ilce]/[hizmet]" used `params.hizmet`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at Page (src\app\izmir\[ilce]\[hizmet]\page.tsx:43:25)
+  41 | export default function Page({ params }: { params: { ilce: string; hizmet: string } }) {
+  42 |   const ilce = params.ilce.toLowerCase();
+> 43 |   const hizmet = params.hizmet.toLowerCase();
+     |                         ^
+  44 |
+  45 |   if (!IZMIR_DISTRICTS.includes(ilce as any) || !SERVICES.some((x) => x.slug === hizmet)) {
+  46 |     notFound();
+Error: Route "/izmir/[ilce]/[hizmet]" used `params.ilce`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at Module.generateMetadata (src\app\izmir\[ilce]\[hizmet]\page.tsx:14:23)
+  12 |
+  13 | export async function generateMetadata({ params }: { params: { ilce: string; hizmet: string } }) {
+> 14 |   const ilce = params.ilce.toLowerCase();
+     |                       ^
+  15 |   const hizmet = params.hizmet.toLowerCase();
+  16 |
+  17 |   if (!IZMIR_DISTRICTS.includes(ilce as any) || !SERVICES.some((x) => x.slug === hizmet)) {
+Error: Route "/izmir/[ilce]/[hizmet]" used `params.hizmet`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at Module.generateMetadata (src\app\izmir\[ilce]\[hizmet]\page.tsx:15:25)
+  13 | export async function generateMetadata({ params }: { params: { ilce: string; hizmet: string } }) {
+  14 |   const ilce = params.ilce.toLowerCase();
+> 15 |   const hizmet = params.hizmet.toLowerCase();
+     |                         ^
+  16 |
+  17 |   if (!IZMIR_DISTRICTS.includes(ilce as any) || !SERVICES.some((x) => x.slug === hizmet)) {
+  18 |     return {};
+Error: Route "/izmir/[ilce]/[hizmet]" used `params.ilce`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at Page (src\app\izmir\[ilce]\[hizmet]\page.tsx:42:23)
+  40 |
+  41 | export default function Page({ params }: { params: { ilce: string; hizmet: string } }) {
+> 42 |   const ilce = params.ilce.toLowerCase();
+     |                       ^
+  43 |   const hizmet = params.hizmet.toLowerCase();
+  44 |
+  45 |   if (!IZMIR_DISTRICTS.includes(ilce as any) || !SERVICES.some((x) => x.slug === hizmet)) {
+Error: Route "/izmir/[ilce]/[hizmet]" used `params.hizmet`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at Page (src\app\izmir\[ilce]\[hizmet]\page.tsx:43:25)
+  41 | export default function Page({ params }: { params: { ilce: string; hizmet: string } }) {
+  42 |   const ilce = params.ilce.toLowerCase();
+> 43 |   const hizmet = params.hizmet.toLowerCase();
+     |                         ^
+  44 |
+  45 |   if (!IZMIR_DISTRICTS.includes(ilce as any) || !SERVICES.some((x) => x.slug === hizmet)) {
+  46 |     notFound();
+Error: Route "/izmir/[ilce]/[hizmet]" used `params.ilce`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at Module.generateMetadata (src\app\izmir\[ilce]\[hizmet]\page.tsx:14:23)
+  12 |
+  13 | export async function generateMetadata({ params }: { params: { ilce: string; hizmet: string } }) {
+> 14 |   const ilce = params.ilce.toLowerCase();
+     |                       ^
+  15 |   const hizmet = params.hizmet.toLowerCase();
+  16 |
+  17 |   if (!IZMIR_DISTRICTS.includes(ilce as any) || !SERVICES.some((x) => x.slug === hizmet)) {
+Error: Route "/izmir/[ilce]/[hizmet]" used `params.hizmet`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at Module.generateMetadata (src\app\izmir\[ilce]\[hizmet]\page.tsx:15:25)
+  13 | export async function generateMetadata({ params }: { params: { ilce: string; hizmet: string } }) {
+  14 |   const ilce = params.ilce.toLowerCase();
+> 15 |   const hizmet = params.hizmet.toLowerCase();
+     |                         ^
+  16 |
+  17 |   if (!IZMIR_DISTRICTS.includes(ilce as any) || !SERVICES.some((x) => x.slug === hizmet)) {
+  18 |     return {};
+ ⨯ The requested resource isn't a valid image for /klima.jpg received null
+ ⨯ The requested resource isn't a valid image for /bulasik.jpg received null
+ ⨯ The requested resource isn't a valid image for /kombi.jpg received null
+ ⨯ The requested resource isn't a valid image for /camasir.jpg received null
+ ⨯ The requested resource isn't a valid image for /buzdolabi.jpg received null
