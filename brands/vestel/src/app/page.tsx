@@ -13,7 +13,7 @@ export default function Home() {
     "@type": "LocalBusiness",
     name: "Vestel İzmir Yetkili Servisi",
     image: "https://www.vestelservisizmir.com/vestel-og-image.jpg",
-    telephone: "+90 532 542 33 51",
+    telephone: "+ 90 501 471 73 80",
     address: {
       "@type": "PostalAddress",
       addressLocality: "İzmir",

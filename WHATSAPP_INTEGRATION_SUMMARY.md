@@ -37,7 +37,7 @@
 
 ### 📞 **WhatsApp Link Yapısı:**
 ```
-https://wa.me/905325423351?text=Merhaba,%20İzmir%20Teknik%20Servis%20hizmeti%20almak%20istiyorum.
+https://wa.me/905014717380?text=Merhaba,%20İzmir%20Teknik%20Servis%20hizmeti%20almak%20istiyorum.
 ```
 
 ### 🎨 **Tasarım Özellikleri:**
@@ -54,7 +54,7 @@ https://wa.me/905325423351?text=Merhaba,%20İzmir%20Teknik%20Servis%20hizmeti%20
 4. **Hızlı iletişim** → Tek tıkla WhatsApp'a yönlendirme
 
 ### 🚀 **Fonksiyonellik:**
-- ✅ **Telefon numarası**: +90 532 542 33 51
+- ✅ **Telefon numarası**: + 90 501 471 73 80
 - ✅ **Önceden yazılmış mesaj**: Türkçe
 - ✅ **Yeni sekmede açılır**: `target="_blank"`
 - ✅ **Güvenlik**: `rel="noopener noreferrer"`

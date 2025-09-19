@@ -80,7 +80,7 @@ export default function ServicePage({ ilce, hizmet }: Props) {
     "name": `${currentDistrict} ${hizmet}`,
     "description": `${currentDistrict} bölgesinde ${hizmet} hizmeti. Aynı gün servis, orijinal parça, garanti.`,
     "url": `https://www.izmir-teknikservis.com/izmir/${ilce.toLowerCase()}/${hizmet.toLowerCase().replace(/\s+/g, '-')}`,
-    "telephone": "+90 532 542 33 51",
+    "telephone": "+ 90 501 471 73 80",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": currentDistrict,
@@ -100,7 +100,7 @@ export default function ServicePage({ ilce, hizmet }: Props) {
     "priceRange": "$$",
     "openingHours": "Mo-Su 00:00-23:59",
     "sameAs": [
-      "https://wa.me/905325423351"
+      "https://wa.me/905014717380"
     ],
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
@@ -176,7 +176,7 @@ export default function ServicePage({ ilce, hizmet }: Props) {
           
           <div className="flex flex-wrap items-center gap-4">
             <a 
-              href="tel:+905325423351" 
+              href="tel:+905014717380" 
               className="inline-flex items-center gap-2 bg-white text-blue-700 px-6 py-3 rounded-full font-semibold shadow-lg hover:bg-white/90 transition-all transform hover:scale-105"
             >
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -185,7 +185,7 @@ export default function ServicePage({ ilce, hizmet }: Props) {
               Hemen Ara
             </a>
             <a 
-              href="https://wa.me/905325423351?text=Merhaba,%20İzmir%20Teknik%20Servis%20hizmeti%20almak%20istiyorum." 
+              href="https://wa.me/905014717380?text=Merhaba,%20İzmir%20Teknik%20Servis%20hizmeti%20almak%20istiyorum." 
               target="_blank" 
               rel="noopener" 
               className="inline-flex items-center gap-2 bg-green-500 text-white px-6 py-3 rounded-full font-semibold shadow-lg hover:bg-green-600 transition-all transform hover:scale-105"

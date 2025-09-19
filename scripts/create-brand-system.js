@@ -210,7 +210,7 @@ export default function Home() {
     "@type": "LocalBusiness",
     name: "${brand.name} İzmir Yetkili Servisi",
     image: "https://www.${brand.domain}/${brand.name.toLowerCase()}-og-image.jpg",
-    telephone: "+90 532 542 33 51",
+    telephone: "+ 90 501 471 73 80",
     address: {
       "@type": "PostalAddress",
       addressLocality: "İzmir",

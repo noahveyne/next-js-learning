@@ -115,8 +115,8 @@ src/
 
 ## 📞 İletişim
 
-- **Telefon**: +90 532 542 33 51
-- **WhatsApp**: [Direkt Mesaj](https://wa.me/905325423351)
+- **Telefon**: + 90 501 471 73 80
+- **WhatsApp**: [Direkt Mesaj](https://wa.me/905014717380)
 - **E-posta**: info@izmir-teknikservis.com
 - **Website**: https://www.izmir-teknikservis.com
 

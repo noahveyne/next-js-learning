@@ -3,14 +3,14 @@
 import { useState } from "react";
 
 export default function ServisCagir() {
-  const [phoneNumber] = useState("+90 532 542 33 51");
+  const [phoneNumber] = useState("+ 90 501 471 73 80");
 
   const handleCall = () => {
     window.open(`tel:${phoneNumber}`, '_self');
   };
 
   const handleWhatsApp = () => {
-    window.open(`https://wa.me/905325423351?text=Merhaba,%20İzmir%20Teknik%20Servis%20hizmeti%20almak%20istiyorum.`, '_blank');
+    window.open(`https://wa.me/905014717380?text=Merhaba,%20İzmir%20Teknik%20Servis%20hizmeti%20almak%20istiyorum.`, '_blank');
   };
 
   return (

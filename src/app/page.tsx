@@ -56,7 +56,7 @@ export default function Home() {
     "@type": "LocalBusiness",
     name: "İzmir Teknik Servis",
     image: "https://www.izmir-teknikservis.com/og-image.jpg",
-    telephone: "+90 532 542 33 51",
+    telephone: "+ 90 501 471 73 80",
     address: {
       "@type": "PostalAddress",
       addressLocality: "İzmir",
@@ -82,7 +82,7 @@ export default function Home() {
     priceRange: "$$",
     openingHours: "Mo-Su 00:00-23:59",
     sameAs: [
-      "https://wa.me/905325423351"
+      "https://wa.me/905014717380"
     ],
     hasOfferCatalog: {
       "@type": "OfferCatalog",

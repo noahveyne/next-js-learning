@@ -14,7 +14,7 @@
 
 #### **📱 Fonksiyonellik:**
 1. **Telefon Numarası Görüntüleme**
-   - Büyük, net numara: `+90 532 542 33 51`
+   - Büyük, net numara: `+ 90 501 471 73 80`
    - "7/24 Hizmet" bilgisi
 
 2. **Hemen Ara Butonu**

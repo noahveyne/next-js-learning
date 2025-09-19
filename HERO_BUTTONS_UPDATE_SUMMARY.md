@@ -19,7 +19,7 @@ import Link from "next/link";
 - **Buton**: "Hemen Randevu Al" → `/servis-cagir` sayfasına
 
 #### **3. Slide 2 - "Aynı Gün Çözüm":**
-- **Önceki**: `ctaHref: "tel:+905325423351"` (telefon linki)
+- **Önceki**: `ctaHref: "tel:+905014717380"` (telefon linki)
 - **Yeni**: `ctaHref: "/servis-cagir"` (sayfa yönlendirme)
 - **Buton**: "Bizi Arayın" → "Servis Çağır" (buton metni değişti)
 

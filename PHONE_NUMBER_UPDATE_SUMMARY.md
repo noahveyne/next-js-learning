@@ -4,7 +4,7 @@
 
 ### 📱 **Yeni Telefon Numarası:**
 ```
-+90 532 542 33 51
++ 90 501 471 73 80
 ```
 
 ### 🔍 **Kontrol Edilen Dosyalar:**
@@ -12,20 +12,20 @@
 #### **✅ Güncellenen/Güncel Olan Dosyalar:**
 
 1. **📄 `src/app/servis-cagir/page.tsx`**
-   - **Telefon numarası**: `+90 532 542 33 51` ✅
-   - **WhatsApp link**: `https://wa.me/905325423351` ✅
+   - **Telefon numarası**: `+ 90 501 471 73 80` ✅
+   - **WhatsApp link**: `https://wa.me/905014717380` ✅
 
 2. **📄 `src/components/Contact.tsx`**
-   - **Telefon linki**: `tel:+905325423351` ✅
-   - **Görüntülenen numara**: `+90 532 542 33 51` ✅
-   - **WhatsApp link**: `https://wa.me/905325423351` ✅
+   - **Telefon linki**: `tel:+905014717380` ✅
+   - **Görüntülenen numara**: `+ 90 501 471 73 80` ✅
+   - **WhatsApp link**: `https://wa.me/905014717380` ✅
 
 3. **📄 `src/app/page.tsx`**
-   - **Structured Data**: `telephone: "+90 532 542 33 51"` ✅
+   - **Structured Data**: `telephone: "+ 90 501 471 73 80"` ✅
 
 4. **📄 `src/components/ServicePage.tsx`**
-   - **Telefon linki**: `tel:+905325423351` ✅
-   - **WhatsApp link**: `https://wa.me/905325423351` ✅
+   - **Telefon linki**: `tel:+905014717380` ✅
+   - **WhatsApp link**: `https://wa.me/905014717380` ✅
 
 5. **📄 `src/components/FloatingCTA.tsx`**
    - **Yönlendirme**: `/servis-cagir` sayfasına ✅
@@ -39,17 +39,17 @@
 
 #### **Görüntülenen Format:**
 ```
-+90 532 542 33 51
++ 90 501 471 73 80
 ```
 
 #### **Telefon Linkleri (tel:):**
 ```
-tel:+905325423351
+tel:+905014717380
 ```
 
 #### **WhatsApp Linkleri:**
 ```
-https://wa.me/905325423351
+https://wa.me/905014717380
 ```
 
 ### 🎯 **Kullanılan Yerler:**
@@ -85,4 +85,4 @@ https://wa.me/905325423351
 
 ---
 
-**Telefon numarası `+90 532 542 33 51` olarak tüm dosyalarda başarıyla güncellendi!** 🎉📞
+**Telefon numarası `+ 90 501 471 73 80` olarak tüm dosyalarda başarıyla güncellendi!** 🎉📞

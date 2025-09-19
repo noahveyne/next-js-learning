@@ -155,7 +155,7 @@ export default function KombiBlogPost() {
               </p>
               <div className="flex flex-col sm:flex-row gap-3">
                 <a 
-                  href="tel:+905325423351" 
+                  href="tel:+905014717380" 
                   className="inline-flex items-center gap-2 bg-green-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors"
                 >
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -164,7 +164,7 @@ export default function KombiBlogPost() {
                   Hemen Ara
                 </a>
                 <a 
-                  href="https://wa.me/905325423351?text=Merhaba,%20kombi%20ısıtma%20sorunu%20hakkında%20bilgi%20almak%20istiyorum." 
+                  href="https://wa.me/905014717380?text=Merhaba,%20kombi%20ısıtma%20sorunu%20hakkında%20bilgi%20almak%20istiyorum." 
                   target="_blank" 
                   rel="noopener"
                   className="inline-flex items-center gap-2 bg-green-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-600 transition-colors"

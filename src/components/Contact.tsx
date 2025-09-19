@@ -31,8 +31,8 @@ export default function Contact() {
                   <div>
                     <h4 className="text-lg font-semibold text-gray-900">Telefon</h4>
                     <p className="text-gray-600">7/24 Hizmet</p>
-                    <a href="tel:+905325423351" className="text-blue-600 font-semibold text-lg hover:text-blue-700">
-                      +90 532 542 33 51
+                    <a href="tel:+905014717380" className="text-blue-600 font-semibold text-lg hover:text-blue-700">
+                      + 90 501 471 73 80
                     </a>
                   </div>
                 </div>
@@ -46,8 +46,8 @@ export default function Contact() {
                   <div>
                     <h4 className="text-lg font-semibold text-gray-900">WhatsApp</h4>
                     <p className="text-gray-600">Hızlı Mesaj</p>
-                    <a href="https://wa.me/905325423351?text=Merhaba,%20İzmir%20Teknik%20Servis%20hizmeti%20almak%20istiyorum." target="_blank" rel="noopener" className="text-green-600 font-semibold text-lg hover:text-green-700">
-                      +90 532 542 33 51
+                    <a href="https://wa.me/905014717380?text=Merhaba,%20İzmir%20Teknik%20Servis%20hizmeti%20almak%20istiyorum." target="_blank" rel="noopener" className="text-green-600 font-semibold text-lg hover:text-green-700">
+                      + 90 501 471 73 80
                     </a>
                   </div>
                 </div>
@@ -95,7 +95,7 @@ export default function Contact() {
               
               <div className="space-y-4">
                 <a
-                  href="tel:+905325423351"
+                  href="tel:+905014717380"
                   className="w-full bg-blue-600 text-white py-4 px-6 rounded-lg font-semibold text-lg flex items-center justify-center space-x-3 hover:bg-blue-700 transition-colors"
                 >
                   <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -105,7 +105,7 @@ export default function Contact() {
                 </a>
 
                 <a
-                  href="https://wa.me/905325423351"
+                  href="https://wa.me/905014717380"
                   target="_blank"
                   rel="noopener"
                   className="w-full bg-green-500 text-white py-4 px-6 rounded-lg font-semibold text-lg flex items-center justify-center space-x-3 hover:bg-green-600 transition-colors"
